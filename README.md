@@ -2,7 +2,8 @@
 # 📌 Descripción
 Este proyecto es una aplicación web para la gestión de tareas, desarrollada con HTML, CSS y PHP. Permite a los usuarios agregar, editar y eliminar tareas de manera eficiente.
 
-#🚀 Tecnologías Utilizadas
+# 🚀 Tecnologías Utilizadas
+
 HTML5: Para la estructura del sitio web.
 
 CSS3: Para el diseño y la presentación.
